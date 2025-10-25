@@ -7,3 +7,10 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// 見出しフォントを Noto Sans JP 900 に変更
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Noto Sans JP";
+  font-weight: 900;
+  letter-spacing: 0.02em;
+}
