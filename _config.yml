@@ -15,13 +15,14 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ja-JP"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "鹿児島県警不祥事問題"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
-description              : "An amazing website."
+description              : "鹿児島県警の組織的な隠ぺい疑惑、組織体質や公益通報つぶしなどの問題を抜本的で網羅的に記録します。
+鹿児島県警が県民の信頼できる組織に再び生まれ変わる日は来るのか？"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -143,7 +144,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      # url:https://x.com/kagoshima_100_
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
