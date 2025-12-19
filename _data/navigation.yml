@@ -10,3 +10,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: https://kagoshima100.github.io/bluewallofsilence/sitemap/
+
+footer:
+  - title: "Legal"
+    children:
+      - title: "Privacy Policy"
+        url: /privacy/
