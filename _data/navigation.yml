@@ -4,10 +4,6 @@ main:
     url: https://kagoshima100.github.io/bluewallofsilence/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: https://kagoshima100.github.io/bluewallofsilence/sitemap/
 
@@ -15,4 +11,4 @@ footer:
   - title: "Legal"
     children:
       - title: "Privacy Policy"
-        url: /privacy/
+        url: https://kagoshima100.github.io/bluewallofsilence/privacy/
