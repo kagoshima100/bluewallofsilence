@@ -116,7 +116,7 @@ footer:
   links:
     - label: "X"
       icon: "fab fa-fw fa-twitter-square"
-      # url:"https://x.com/kagoshima_100_"
+      url: https://x.com/kagoshima_100_
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -132,7 +132,10 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - title: "Privacy Policy"
+      url: https://kagoshima100.github.io/bluewallofsilence/privacy/
   since: "2025"
+
 
 
 # Reading Files
