@@ -2,10 +2,10 @@
 main:
   - title: "MENU"
     url: https://kagoshima100.github.io/bluewallofsilence/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sitemap"
-  #   url: https://kagoshima100.github.io/bluewallofsilence/sitemap/
+   - title: "About"
+   url: https://mmistakes.github.io/minimal-mistakes/about/
+   - title: "Sitemap"
+     url: https://kagoshima100.github.io/bluewallofsilence/sitemap/
 
 footer:
   - title: "Legal"
