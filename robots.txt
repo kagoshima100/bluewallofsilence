@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kagoshima100.github.io/bluewallofsilence/sitemap.xml
